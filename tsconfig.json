@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "module": "CommonJS",
+    "strict": true,
+    "forceConsistentCasingInFileNames": true,
+    "lib": ["es2015", "DOM"],
+    "skipLibCheck": true
+  },
+}

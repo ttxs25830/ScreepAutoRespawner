@@ -4,6 +4,10 @@
     "strict": true,
     "forceConsistentCasingInFileNames": true,
     "lib": ["es2015", "DOM"],
-    "skipLibCheck": true
+    "skipLibCheck": true,
+    "outDir": "./dist"
   },
+  "files": [
+    "src/index.ts"
+  ],
 }
